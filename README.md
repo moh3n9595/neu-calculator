@@ -9,10 +9,10 @@
     Calculate with neumorphism UI and enjoy!
   </p>
   <br>
-  <div style="display:flex;justify-content: center;">
-    <img src="./images/sc1.png"   style="padding: 0 10px; border-radius: 40px">
-    <img src="./images/sc2.png"   style="padding: 0 10px; border-radius: 40px">
-    <img src="./images/sc3.png"   style="padding: 0 10px; border-radius: 40px">
+  <div align="center">
+    <img src="./images/sc1.png" width="300">
+    <img src="./images/sc2.png" width="300">
+    <img src="./images/sc3.png" width="300">
   </div>
 </p>
 
