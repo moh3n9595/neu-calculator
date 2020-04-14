@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container .row {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.container .top {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-direction: column;
+  padding: 5% 10px 15%;
+  width: 240px;
+  overflow: auto;
+}
+
+.container .top .inCalc {
+  color: #999;
+  height: 40px;
+  font-size: 24px;
+}
+
+.container .top .calced {
+  color: #333;
+  height: 40px;
+  font-size: 28px;
+}
+
+.container .sign {
+    color: rgb(255, 202, 54);
+    margin: 0 3px;
+}

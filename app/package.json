@@ -1,0 +1,17 @@
+{
+  "name": "neu-calculator",
+  "productName": "NeuCalculator",
+  "version": "1.0.0",
+  "description": "Calculate with neumorphism UI and enjoy!",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Mohsen Madani",
+    "email": "mohsenando@gmail.com"
+  },
+  "scripts": {
+    "electron-rebuild": "node -r ../internals/scripts/BabelRegister.js ../internals/scripts/ElectronRebuild.js",
+    "postinstall": "yarn electron-rebuild"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}

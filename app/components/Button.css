@@ -1,0 +1,26 @@
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
+  margin: 7px;
+  box-shadow: 15px 15px 45px #BABECC,
+  -15px -15px 45px #ffffff;
+  font-size: 30px;
+  color: #0f0c2f;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  user-select: none;
+  background-color: #ecf0f9;
+}
+
+.btn:active {
+  box-shadow: inset 1px 1px 3px #BABECC,
+  inset -1px -1px 3px #ffffff;
+}
+
+.btn.long {
+  width: 118px;
+}
