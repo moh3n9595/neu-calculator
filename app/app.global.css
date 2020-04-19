@@ -44,3 +44,10 @@ a:hover {
 :focus {
   outline: 0;
 }
+
+body, html {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  outline: 0;
+}

@@ -14,6 +14,7 @@
   cursor: pointer;
   user-select: none;
   background-color: #ecf0f9;
+  -webkit-app-region: no-drag;
 }
 
 .btn:active {
