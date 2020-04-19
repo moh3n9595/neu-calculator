@@ -10,9 +10,9 @@
   </p>
   <br>
   <div align="center">
-    <img src="./images/shot1.png" width="300">
-    <img src="./images/shot2.png" width="300">
-    <img src="./images/shot3.png" width="300">
+    <img src="./images/sh1.png" width="280">
+    <img src="./images/sh2.png" width="280">
+    <img src="./images/sh3.png" width="280">
   </div>
 </p>
 
